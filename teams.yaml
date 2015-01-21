@@ -1,0 +1,109 @@
+teams:
+  BDF:
+    name: Bedford School
+  BGS:
+    name: Bristol Grammar School
+  BMS:
+    name: Blatchington Mill School
+  BPV:
+    name: Barton Peveril College
+  BRK:
+    name: Brockenhurst College
+  BRN:
+    name: St Brendan's Sixth Form College
+  BTE:
+    name: Bristol Technology and Engineering Academy
+  BWS:
+    name: Bishop Wordsworth School
+  CAT:
+    name: CATS College Cambridge
+  CCR:
+    name: Cirencester College
+  CDU:
+    name: Cedars Upper School
+  CGS:
+    name: Colston's Girls' School
+  CHB:
+    name: King Edward VI Camp Hill School for Boys
+  CHR:
+    name: Christ's Hospital
+  CLC:
+    name: Cornwall College
+  CLF:
+    name: Clifton High School
+  CLY:
+    name: Collyers Sixth Form College
+  COR:
+    name: The Corsham School
+  COT:
+    name: Cotham School
+  CPR:
+    name: The Cooper School
+  CRB:
+    name: Cranbrook School
+  DUL:
+    name: Dulwich College
+  GRD:
+    name: Gordano School
+  HAM:
+    name: Hampton School
+  HRS:
+    name: Hills Road Sixth Form College
+  HSO:
+    name: Headington School
+  HZW:
+    name: Hazelwick Comprehensive School
+  ICE:
+    name: Iceni Academy
+  JMS:
+    name: John Mason School
+  KDE:
+    name: Kennet District Explorer Scouts
+  KEG:
+    name: King Edward VI Grammar School, Chelmsford
+  KES:
+    name: King Edward VI School
+  KHS:
+    name: Kingsbury High School
+  LFG:
+    name: Lion-Feuchtwanger-Gymnasium
+  LSS:
+    name: Lawrence Sheriff School
+  MAI:
+    name: Gymnasium Markt Indersdorf
+  MCA:
+    name: Mildenhall College Academy
+  MCS:
+    name: Magdalen College School
+  MFG:
+    name: Mirfield Free Grammar
+  MNK:
+    name: Monkton Combe School
+  MRT:
+    name: St Mary Redcliffe & Temple School
+  PSC:
+    name: Peter Symonds College
+  QEH:
+    name: Queen Elizabeth's Hospital School
+  QMC:
+    name: Queen Mary's College
+  RGS:
+    name: Royal Grammar School, Guildford
+  RHY:
+    name: Ysgol Gyfun Cwm Rhymni
+  SPC:
+    name: St Peter's Catholic School
+  SWI:
+    name: South Wilts Grammar School for Girls
+  TBG:
+    name: Torquay Boys Grammar School
+  TTN:
+    name: Tauntons College
+  TWG:
+    name: Tunbridge Wells Grammar School for Boys
+  UPP:
+    name: Uppingham School
+  WGS:
+    name: Wisbech Grammar School
+  WHS:
+    name: Westcliff High School for Girls
