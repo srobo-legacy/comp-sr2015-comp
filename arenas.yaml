@@ -1,0 +1,10 @@
+arenas:
+  - red
+  - blue
+
+corner_colours:
+  0: '#00ff00'
+  1: '#ff6600'
+  2: '#ff00ff'
+  3: '#ffff00'
+
