@@ -3,5 +3,5 @@ class Scorer:
         self._scoresheet = scoresheet
 
     def calculate_scores(self):
-        return {tla: data['flags'] for tla, data in self._scoresheet.items()}
+        return {tla: len(data['flags']) for tla, data in self._scoresheet.items()}
 
