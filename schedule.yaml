@@ -37,12 +37,6 @@ knockout:
 
 matches: {}
 
-Total match slots available: 108
-Slots: 8
-Additional teams: 2
-Each round: 7 matches
-Number of rounds: 15
-Final match count: 105
 matches:
   0:
     blue: [MAI, CLF, BGS, CHR]
