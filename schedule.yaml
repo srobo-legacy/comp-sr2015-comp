@@ -4,6 +4,8 @@ match_period_lengths:
   post: 30
   total: 300
 
+timezone: Europe/London
+
 delays: []
 
 match_periods:
