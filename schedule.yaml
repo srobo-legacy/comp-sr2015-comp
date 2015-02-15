@@ -1,4 +1,4 @@
-match_period_lengths:
+match_slot_lengths:
   pre: 90
   match: 180
   post: 30
