@@ -1,0 +1,316 @@
+matches:
+  0:
+    blue: [HRS, QMC, KHS, SWI]
+    red: [BRK, CLY2, HZW, BGS]
+  1:
+    blue: [SPC, WGS, RHY, null]
+    red: [BTE, HAM, CLY, MCA]
+  2:
+    blue: [MRT, TWG, CAT, PSC]
+    red: [BPV, BMS, LFG, MCS]
+  3:
+    blue: [DUL, TTN, MNK, JMS]
+    red: [CLC, CHB, BRN, CPR]
+  4:
+    blue: [KES, HSO, LSS, KDE]
+    red: [RGS, CRB, QEH, GRD]
+  5:
+    blue: [MAI, null, BWS, TBG]
+    red: [KEG, CCR, COR, UPP]
+  6:
+    blue: [CGS, COT, BDF, CDU]
+    red: [WHS, MFG, CHR, CLF]
+  7:
+    blue: [BTE, LFG, TTN, CAT]
+    red: [TWG, MCS, CPR, MNK]
+  8:
+    blue: [null, HSO, DUL, BRK]
+    red: [CLY2, CRB, GRD, BMS]
+  9:
+    blue: [JMS, CCR, HAM, MRT]
+    red: [HZW, HRS, RGS, UPP]
+  10:
+    blue: [CDU, BGS, KES, SPC]
+    red: [COT, CLY, CLF, BRN]
+  11:
+    blue: [PSC, MFG, QEH, BDF]
+    red: [LSS, SWI, CHB, BPV]
+  12:
+    blue: [KEG, null, KHS, KDE]
+    red: [RHY, CHR, BWS, CLC]
+  13:
+    blue: [TBG, CGS, WHS, COR]
+    red: [MAI, MCA, WGS, QMC]
+  14:
+    blue: [BGS, HAM, COT, QEH]
+    red: [LSS, null, CAT, SPC]
+  15:
+    blue: [CDU, MCS, RHY, JMS]
+    red: [LFG, CHB, UPP, BTE]
+  16:
+    blue: [PSC, KEG, BDF, MAI]
+    red: [GRD, CLF, COR, HRS]
+  17:
+    blue: [DUL, KES, CLY2, KHS]
+    red: [TTN, BRN, CHR, QMC]
+  18:
+    blue: [HSO, WGS, WHS, BRK]
+    red: [TWG, MFG, MCA, CPR]
+  19:
+    blue: [BPV, MNK, TBG, SWI]
+    red: [null, RGS, CGS, CCR]
+  20:
+    blue: [BMS, CLY, HZW, CRB]
+    red: [KDE, BWS, CLC, MRT]
+  21:
+    blue: [BTE, SPC, GRD, WHS]
+    red: [COR, COT, UPP, CHR]
+  22:
+    blue: [CLY2, QMC, JMS, CHB]
+    red: [BDF, MAI, CLF, MCS]
+  23:
+    blue: [CGS, BPV, CRB, PSC]
+    red: [KHS, null, CLC, HSO]
+  24:
+    blue: [BWS, null, CAT, DUL]
+    red: [CLY, CCR, KES, RHY]
+  25:
+    blue: [TBG, BRN, CPR, SWI]
+    red: [KDE, MFG, BGS, BRK]
+  26:
+    blue: [LFG, HZW, KEG, MCA]
+    red: [CDU, TWG, LSS, BMS]
+  27:
+    blue: [HAM, WGS, MRT, RGS]
+    red: [HRS, QEH, TTN, MNK]
+  28:
+    blue: [MAI, CPR, CAT, KES]
+    red: [SWI, BDF, GRD, CLY]
+  29:
+    blue: [HSO, MCS, CHB, BTE]
+    red: [null, CHR, CLC, COT]
+  30:
+    blue: [BMS, CGS, MCA, WHS]
+    red: [PSC, CRB, UPP, HZW]
+  31:
+    blue: [BPV, HAM, KHS, CLF]
+    red: [WGS, TBG, BWS, TTN]
+  32:
+    blue: [null, BRN, BGS, CCR]
+    red: [COR, MNK, MFG, SPC]
+  33:
+    blue: [DUL, LSS, TWG, KEG]
+    red: [RGS, QMC, LFG, BRK]
+  34:
+    blue: [KDE, CDU, JMS, RHY]
+    red: [CLY2, HRS, QEH, MRT]
+  35:
+    blue: [UPP, KHS, BMS, WHS]
+    red: [SPC, TBG, GRD, CCR]
+  36:
+    blue: [BGS, CAT, HSO, LSS]
+    red: [MCA, BRK, BDF, BWS]
+  37:
+    blue: [SWI, KES, JMS, RGS]
+    red: [CLC, HAM, QMC, KDE]
+  38:
+    blue: [CDU, CHR, MRT, KEG]
+    red: [BRN, WGS, TWG, null]
+  39:
+    blue: [MCS, CLY2, CHB, CRB]
+    red: [COR, CLY, HZW, CPR]
+  40:
+    blue: [CLF, COT, MFG, CGS]
+    red: [HRS, LFG, MNK, MAI]
+  41:
+    blue: [RHY, QEH, BTE, null]
+    red: [DUL, PSC, BPV, TTN]
+  42:
+    blue: [WGS, RGS, TBG, CPR]
+    red: [null, QMC, CCR, MRT]
+  43:
+    blue: [COR, HAM, CRB, BDF]
+    red: [CLC, CLY, MCA, KES]
+  44:
+    blue: [SPC, LSS, CLF, TTN]
+    red: [TWG, HZW, WHS, CHR]
+  45:
+    blue: [BMS, LFG, COT, BRN]
+    red: [CAT, BTE, BRK, BPV]
+  46:
+    blue: [BWS, DUL, HSO, JMS]
+    red: [MNK, CLY2, BGS, HRS]
+  47:
+    blue: [MAI, null, KEG, MCS]
+    red: [KDE, UPP, QEH, CGS]
+  48:
+    blue: [MFG, RHY, CDU, SWI]
+    red: [PSC, CHB, KHS, GRD]
+  49:
+    blue: [WHS, QMC, CHR, COR]
+    red: [DUL, CLY, LSS, RGS]
+  50:
+    blue: [BTE, KDE, CAT, HSO]
+    red: [QEH, CLF, HZW, BGS]
+  51:
+    blue: [SPC, BWS, CPR, CGS]
+    red: [BMS, BDF, TBG, BRN]
+  52:
+    blue: [WGS, UPP, MNK, CHB]
+    red: [BRK, null, CRB, MFG]
+  53:
+    blue: [KES, MRT, JMS, KEG]
+    red: [MCA, MCS, MAI, RHY]
+  54:
+    blue: [TTN, TWG, GRD, LFG]
+    red: [CLC, CDU, CCR, null]
+  55:
+    blue: [BPV, COT, CLY2, KHS]
+    red: [PSC, HRS, SWI, HAM]
+  56:
+    blue: [null, HSO, CPR, MAI]
+    red: [CAT, SPC, QEH, BMS]
+  57:
+    blue: [TWG, DUL, MNK, RHY]
+    red: [CLY, KDE, UPP, WHS]
+  58:
+    blue: [BDF, CRB, BRN, COT]
+    red: [BPV, PSC, CLY2, SWI]
+  59:
+    blue: [BTE, MCA, BRK, RGS]
+    red: [KHS, CHR, null, JMS]
+  60:
+    blue: [HRS, WGS, CLC, COR]
+    red: [MCS, KES, BGS, GRD]
+  61:
+    blue: [CGS, TBG, BWS, LSS]
+    red: [TTN, KEG, CCR, QMC]
+  62:
+    blue: [MFG, LFG, HAM, CLF]
+    red: [CHB, HZW, MRT, CDU]
+  63:
+    blue: [GRD, COT, RGS, KES]
+    red: [CLY, MAI, BTE, BMS]
+  64:
+    blue: [CGS, SWI, UPP, TBG]
+    red: [MNK, CPR, TWG, SPC]
+  65:
+    blue: [JMS, PSC, BWS, MRT]
+    red: [TTN, KHS, MCS, CDU]
+  66:
+    blue: [CRB, BGS, CCR, WHS]
+    red: [CHR, HAM, null, BRN]
+  67:
+    blue: [null, BRK, LSS, HRS]
+    red: [HZW, CLY2, MFG, DUL]
+  68:
+    blue: [LFG, CAT, KDE, RHY]
+    red: [WGS, QEH, COR, KEG]
+  69:
+    blue: [HSO, QMC, MCA, CLC]
+    red: [CLF, BPV, CHB, BDF]
+  70:
+    blue: [BTE, COT, UPP, WHS]
+    red: [RGS, SWI, HAM, null]
+  71:
+    blue: [JMS, CLY2, null, BMS]
+    red: [HZW, LSS, SPC, MRT]
+  72:
+    blue: [CPR, HRS, KEG, MCS]
+    red: [MAI, CAT, QMC, BWS]
+  73:
+    blue: [BPV, CLF, GRD, WGS]
+    red: [TTN, HSO, BRK, KES]
+  74:
+    blue: [PSC, DUL, BRN, QEH]
+    red: [MNK, CDU, CGS, BDF]
+  75:
+    blue: [RHY, KHS, BGS, KDE]
+    red: [CCR, CHR, TWG, CRB]
+  76:
+    blue: [TBG, MFG, CLY, CLC]
+    red: [CHB, LFG, COR, MCA]
+  77:
+    blue: [HSO, WGS, KES, COT]
+    red: [CPR, KEG, RGS, CGS]
+  78:
+    blue: [MCS, UPP, null, CLF]
+    red: [MNK, DUL, RHY, JMS]
+  79:
+    blue: [QEH, TTN, CAT, SWI]
+    red: [CHR, TBG, SPC, KDE]
+  80:
+    blue: [CHB, LSS, HRS, CCR]
+    red: [MAI, BMS, PSC, MRT]
+  81:
+    blue: [BTE, CLY2, BDF, WHS]
+    red: [QMC, LFG, CRB, COR]
+  82:
+    blue: [MCA, BPV, BWS, BGS]
+    red: [BRN, BRK, MFG, CLY]
+  83:
+    blue: [CDU, GRD, TWG, HAM]
+    red: [KHS, null, HZW, CLC]
+  84:
+    blue: [WHS, CLY2, DUL, PSC]
+    red: [null, QEH, RGS, JMS]
+  85:
+    blue: [CPR, UPP, KDE, KES]
+    red: [RHY, MAI, BPV, COR]
+  86:
+    blue: [MRT, CCR, QMC, CLF]
+    red: [CAT, SWI, BGS, KEG]
+  87:
+    blue: [HAM, MCA, COT, HSO]
+    red: [MNK, TBG, WGS, KHS]
+  88:
+    blue: [MCS, LSS, CGS, MFG]
+    red: [SPC, BTE, CDU, TWG]
+  89:
+    blue: [HZW, LFG, BDF, BWS]
+    red: [BRN, CHB, BRK, BMS]
+  90:
+    blue: [GRD, null, HRS, CRB]
+    red: [CLC, CLY, TTN, CHR]
+  91:
+    blue: [CDU, QMC, WHS, SWI]
+    red: [CLY2, UPP, JMS, SPC]
+  92:
+    blue: [CCR, LFG, COT, KES]
+    red: [LSS, BGS, CGS, BWS]
+  93:
+    blue: [KDE, MCS, MFG, QEH]
+    red: [CLF, CHR, CRB, BMS]
+  94:
+    blue: [MCA, CAT, HZW, BRN]
+    red: [WGS, HRS, HSO, KHS]
+  95:
+    blue: [HAM, CLC, MNK, KEG]
+    red: [COR, CLY, DUL, null]
+  96:
+    blue: [GRD, TTN, TBG, BRK]
+    red: [MAI, BPV, TWG, null]
+  97:
+    blue: [MRT, RGS, BDF, RHY]
+    red: [PSC, CHB, BTE, CPR]
+  98:
+    blue: [WHS, MFG, KEG, HZW]
+    red: [QMC, null, QEH, CGS]
+  99:
+    blue: [TTN, SPC, CHR, GRD]
+    red: [CLY, MAI, BWS, HSO]
+  100:
+    blue: [SWI, COR, DUL, CLF]
+    red: [MNK, LFG, CRB, null]
+  101:
+    blue: [MRT, BMS, BPV, CPR]
+    red: [CLC, KES, TBG, MCA]
+  102:
+    blue: [BTE, CLY2, WGS, RGS]
+    red: [UPP, CAT, JMS, HAM]
+  103:
+    blue: [CCR, MCS, KDE, BRK]
+    red: [PSC, CHB, KHS, BGS]
+  104:
+    blue: [COT, CDU, LSS, HRS]
+    red: [BDF, BRN, RHY, TWG]

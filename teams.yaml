@@ -1,107 +1,163 @@
 teams:
   BDF:
     name: Bedford School
+    rookie: false
   BGS:
-    name: Bristol Grammar School
+    name: BGS Robotics
+    rookie: false
   BMS:
-    name: Blatchington Mill School
+    name: 'Team BMS  '
+    rookie: false
   BPV:
-    name: Barton Peveril College
+    name: Team Barton Peveril
+    rookie: false
   BRK:
-    name: Brockenhurst College
+    name: 404 (Robot Not Found)
+    rookie: false
   BRN:
     name: St Brendan's Sixth Form College
+    rookie: false
   BTE:
-    name: Bristol Technology and Engineering Academy
+    name: MealsOnWheels
+    rookie: false
   BWS:
     name: Bishop Wordsworth School
+    rookie: false
   CAT:
-    name: CATS College Cambridge
+    name: CATS Robotics
+    rookie: false
   CCR:
     name: Cirencester College
+    rookie: false
   CDU:
-    name: Cedars Upper School
+    name: Team CDU
+    rookie: false
   CGS:
-    name: Colston's Girls' School
+    name: CGS Robotics
+    rookie: false
   CHB:
-    name: King Edward VI Camp Hill School for Boys
+    name: King Edward VI Camp Hill Schools Student Robotics Team
+    rookie: false
   CHR:
     name: Christ's Hospital
+    rookie: false
   CLC:
-    name: Cornwall College
+    name: Nothing Cooler Than Absolute Zero
+    rookie: false
   CLF:
     name: Clifton High School
+    rookie: false
   CLY:
+    name: Team Collyer's
+    rookie: false
+  CLY2:
     name: Collyers Sixth Form College
+    rookie: false
   COR:
-    name: The Corsham School
+    name: Reservoir Doges
+    rookie: false
   COT:
-    name: Cotham School
+    name: Cotham School Robotics
+    rookie: false
   CPR:
     name: The Cooper School
+    rookie: false
   CRB:
     name: Cranbrook School
+    rookie: false
   DUL:
-    name: Dulwich College
+    name: DC Robotics
+    rookie: false
   GRD:
-    name: Gordano School
+    name: The Egyptians
+    rookie: false
   HAM:
-    name: Hampton School
+    name: Team TechNoLogic (HAM)
+    rookie: false
   HRS:
     name: Hills Road Sixth Form College
+    rookie: false
   HSO:
     name: Headington School
+    rookie: false
   HZW:
-    name: Hazelwick Comprehensive School
-  ICE:
-    name: Iceni Academy
+    name: Hazelwick
+    rookie: false
   JMS:
-    name: John Mason School
+    name: Team TANK
+    rookie: false
   KDE:
-    name: Kennet District Explorer Scouts
+    name: Team KDE
+    rookie: false
   KEG:
     name: King Edward VI Grammar School, Chelmsford
+    rookie: false
   KES:
     name: King Edward VI School
+    rookie: false
   KHS:
     name: Kingsbury High School
+    rookie: false
   LFG:
     name: Lion-Feuchtwanger-Gymnasium
+    rookie: false
   LSS:
     name: Lawrence Sheriff School
+    rookie: false
   MAI:
-    name: Gymnasium Markt Indersdorf
+    name: 42 * 2 - Double Vision
+    rookie: false
   MCA:
-    name: Mildenhall College Academy
+    name: '011011010110001101100001'
+    rookie: false
   MCS:
     name: Magdalen College School
+    rookie: false
   MFG:
     name: Mirfield Free Grammar
+    rookie: false
   MNK:
-    name: Monkton Combe School
+    name: Team Protos
+    rookie: false
   MRT:
-    name: St Mary Redcliffe & Temple School
+    name: Mr.T
+    rookie: false
   PSC:
-    name: Peter Symonds College
+    name: Peter Symonds Robotics
+    rookie: false
   QEH:
     name: Queen Elizabeth's Hospital School
+    rookie: false
   QMC:
-    name: Queen Mary's College
+    name: Team QMC
+    rookie: false
   RGS:
-    name: Royal Grammar School, Guildford
+    name: RGS Guildford
+    rookie: false
+  RHY:
+    name: Ysgol Gyfun Cwm Rhymni
+    rookie: false
   SPC:
-    name: St Peter's Catholic School
+    name: St.Peter's Robotics Team
+    rookie: false
   SWI:
     name: South Wilts Grammar School for Girls
+    rookie: false
   TBG:
     name: Torquay Boys Grammar School
+    rookie: false
   TTN:
-    name: Tauntons College
+    name: TTN Robotics
+    rookie: false
   TWG:
-    name: Tunbridge Wells Grammar School for Boys
+    name: Team TWGSB
+    rookie: false
   UPP:
     name: Uppingham School
+    rookie: false
   WGS:
-    name: Wisbech Grammar School
+    name: Team WGS
+    rookie: false
   WHS:
     name: Westcliff High School for Girls
+    rookie: false
