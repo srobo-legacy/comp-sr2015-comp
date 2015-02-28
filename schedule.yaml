@@ -3,36 +3,36 @@ match_slot_lengths:
   match: 180
   post: 30
   total: 300
-
+#
 timezone: Europe/London
-
+#
 delays: []
-
+#
 match_periods:
   league:
     - start_time:   2015-01-21 16:30:00 +0
       end_time:     2015-01-21 21:00:00 +0
       max_end_time: 2015-01-21 21:10:00 +0
       description:  Saturday league, afternoon
-
+#
     - start_time:   2015-01-22 09:30:00 +0
       end_time:     2015-01-22 12:15:00 +0
       max_end_time: 2015-01-22 12:20:00 +0
       description:  Sunday league, morning
-
+#
     - start_time:   2015-01-22 13:15:00 +0
       end_time:     2015-01-22 15:00:00 +0
       description:  Sunday league, afternoon
-
+#
   knockout:
     - start_time:   2015-01-22 15:30:00 +0
       end_time:     2015-01-22 17:30:00 +0
       description:  Knockouts
-
+#
 knockout:
   round_spacing: 300 # Delay between knockout rounds
   final_delay:   300 # Extra delay before the finals
-
+#
   single_arena:
     rounds: 3        # Quarters, semis and finals onwards drop to 1 arena
     arenas: [red]
