@@ -35,6 +35,11 @@ class Scorer:
             raise InvalidScoresheetException(msg)
 
     def _check_num_flags(self, who, flags):
+        if not isinstance(flags, int):
+            msg = "{0} has invalid flags value ({1}, expected int)" \
+                    .format(who, repr(flags))
+            raise InvalidScoresheetException(msg)
+
         if flags > MAX_FLAGS:
             msg = "{0} has too many flags ({1}; max: {2})" \
                     .format(who, flags, MAX_FLAGS)

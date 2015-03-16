@@ -24,9 +24,39 @@ def test_scores():
 
     assert expected == scores, "Wrong scores!"
 
-def test_bad_scores():
+def test_negative_score():
     input_data = {
         'ABC': {'flags': -1},
+        'DEF': {'flags': 1},
+        'GHI': {'flags': 2}
+    }
+
+    try:
+        scorer = Scorer(input_data)
+        scores = scorer.calculate_scores()
+    except InvalidScoresheetException:
+        pass
+    else:
+        assert False, "Should error when scores are invalid"
+
+def test_float_score():
+    input_data = {
+        'ABC': {'flags': 1.5},
+        'DEF': {'flags': 1},
+        'GHI': {'flags': 2}
+    }
+
+    try:
+        scorer = Scorer(input_data)
+        scores = scorer.calculate_scores()
+    except InvalidScoresheetException:
+        pass
+    else:
+        assert False, "Should error when scores are invalid"
+
+def test_string_score():
+    input_data = {
+        'ABC': {'flags': "1"},
         'DEF': {'flags': 1},
         'GHI': {'flags': 2}
     }
