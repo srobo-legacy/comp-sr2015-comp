@@ -35,6 +35,8 @@ knockout:
   round_spacing: 300 # Delay between knockout rounds
   final_delay: 300   # Extra delay before the finals
 #
+# Everyone goes through to the knockouts (arity = 54)
+#
   single_arena:
     rounds: 3        # Quarters, semis and finals onwards drop to 1 arena
     arenas:
