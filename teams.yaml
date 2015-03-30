@@ -7,7 +7,7 @@ teams:
     rookie: false
   BMS:
     name: Team BMS
-    rookie: false
+    rookie: true
   BPV:
     name: Team Barton Peveril
     rookie: false
@@ -19,31 +19,31 @@ teams:
     rookie: false
   BTE:
     name: MealsOnWheels
-    rookie: false
+    rookie: true
   BWS:
     name: Bishop Wordsworth School
     rookie: false
   CAT:
     name: CATS Robotics
-    rookie: false
+    rookie: true
   CCR:
     name: Cirencester College
     rookie: false
   CDU:
     name: Cedars Upper School Engineering Team
-    rookie: false
+    rookie: true
   CGS:
     name: CGS Robotics
     rookie: false
   CHB:
     name: King Edward VI Camp Hill Schools Student Robotics Team
-    rookie: false
+    rookie: true
   CHR:
     name: Christ's Hospital
-    rookie: false
+    rookie: true
   CLC:
     name: Nothing Cooler Than Absolute Zero
-    rookie: false
+    rookie: true
   CLF:
     name: Clifton High School
     rookie: false
@@ -55,10 +55,10 @@ teams:
     rookie: false
   COR:
     name: Reservoir Doges
-    rookie: false
+    rookie: true
   COT:
     name: Cotham School Robotics
-    rookie: false
+    rookie: true
   CPR:
     name: The Cooper School
     rookie: false
@@ -67,7 +67,7 @@ teams:
     rookie: false
   DUL:
     name: DC Robotics
-    rookie: false
+    rookie: true
   GRD:
     name: The Egyptians
     rookie: false
@@ -91,7 +91,7 @@ teams:
     rookie: false
   KEG:
     name: King Edward VI Grammar School, Chelmsford
-    rookie: false
+    rookie: true
   KES:
     name: King Edward VI School
     rookie: false
@@ -109,19 +109,19 @@ teams:
     rookie: false
   MCA:
     name: '011011010110001101100001'
-    rookie: false
+    rookie: true
   MCS:
     name: MCS Robotics
-    rookie: false
+    rookie: true
   MFG:
     name: Mirfield Free Grammar
     rookie: false
   MNK:
     name: Team Protos
-    rookie: false
+    rookie: true
   MRT:
     name: Mr.T
-    rookie: false
+    rookie: true
   PSC:
     name: Peter Symonds Robotics
     rookie: false
@@ -136,10 +136,10 @@ teams:
     rookie: false
   RHY:
     name: Ysgol Gyfun Cwm Rhymni
-    rookie: false
+    rookie: true
   SPC:
     name: St.Peter's Robotics Team
-    rookie: false
+    rookie: true
   SWI:
     name: South Wilts Grammar School for Girls
     rookie: false
@@ -154,10 +154,10 @@ teams:
     rookie: false
   UPP:
     name: Uppingham School
-    rookie: false
+    rookie: true
   WGS:
     name: Team WGS
-    rookie: false
+    rookie: true
   WHS:
     name: Westcliff High School for Girls
-    rookie: false
+    rookie: true
