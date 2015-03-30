@@ -6,7 +6,7 @@ teams:
     name: BGS Robotics
     rookie: false
   BMS:
-    name: 'Team BMS  '
+    name: Team BMS
     rookie: false
   BPV:
     name: Team Barton Peveril
@@ -30,7 +30,7 @@ teams:
     name: Cirencester College
     rookie: false
   CDU:
-    name: Team CDU
+    name: Cedars Upper School Engineering Team
     rookie: false
   CGS:
     name: CGS Robotics
@@ -78,7 +78,7 @@ teams:
     name: Hills Road Sixth Form College
     rookie: false
   HSO:
-    name: Headington School
+    name: HSO
     rookie: false
   HZW:
     name: Hazelwick
@@ -111,7 +111,7 @@ teams:
     name: '011011010110001101100001'
     rookie: false
   MCS:
-    name: Magdalen College School
+    name: MCS Robotics
     rookie: false
   MFG:
     name: Mirfield Free Grammar
