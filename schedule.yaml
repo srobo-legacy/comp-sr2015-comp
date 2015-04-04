@@ -33,7 +33,7 @@ match_periods:
     description: Sunday league, afternoon
 #
   knockout:
-  - start_time: 2015-04-26 15:00:00+01:00
+  - start_time: 2015-04-26 14:45:00+01:00
     end_time: 2015-04-26 16:55:00+01:00
     description: Knockouts
 #
