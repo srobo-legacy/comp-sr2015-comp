@@ -11,6 +11,9 @@ teams:
   BPV:
     name: Team Barton Peveril
     rookie: false
+  BPV2:
+    name: Barton Peveril College (team 2)
+    rookie: false
   BRK:
     name: 404 (Robot Not Found)
     rookie: false
@@ -26,9 +29,6 @@ teams:
   CAT:
     name: CATS Robotics
     rookie: true
-  CCR:
-    name: Cirencester College
-    rookie: false
   CDU:
     name: Cedars Upper School Engineering Team
     rookie: true
@@ -53,9 +53,6 @@ teams:
   CLY2:
     name: Collyers Sixth Form College
     rookie: false
-  COR:
-    name: Reservoir Doges
-    rookie: true
   COT:
     name: Cotham School Robotics
     rookie: true
@@ -70,6 +67,9 @@ teams:
     rookie: true
   GRD:
     name: The Egyptians
+    rookie: false
+  GRD2:
+    name: Team Aculeus
     rookie: false
   HAM:
     name: Team TechNoLogic (HAM)
@@ -134,9 +134,6 @@ teams:
   RGS:
     name: RGS Guildford
     rookie: false
-  RHY:
-    name: Ysgol Gyfun Cwm Rhymni
-    rookie: true
   SPC:
     name: St.Peter's Robotics Team
     rookie: true
