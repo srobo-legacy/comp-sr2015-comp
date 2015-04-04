@@ -37,6 +37,13 @@ match_periods:
     end_time: 2015-04-26 16:55:00+01:00
     description: Knockouts
 #
+league:
+  # Extra spacing which appears before (almost) everyone's first match
+  # No need for extra time before match number 0
+  extra_spacing:
+  - match_numbers: 1-7
+    duration: 300
+#
 knockout:
   round_spacing: 300 # Delay between knockout rounds
   final_delay: 300   # Extra delay before the finals
