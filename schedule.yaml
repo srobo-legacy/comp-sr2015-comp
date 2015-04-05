@@ -39,9 +39,9 @@ match_periods:
 #
 league:
   # Extra spacing which appears before (almost) everyone's first match
-  # No need for extra time before match number 0
+  # Matches which fall at the start of their period are ignored
   extra_spacing:
-  - match_numbers: 1-7
+  - match_numbers: 0-7
     duration: 300
 #
 knockout:
