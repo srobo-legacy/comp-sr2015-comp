@@ -1,316 +1,316 @@
 matches:
   0:
-    blue: [CGS, MNK, CLY2, CPR]
-    red: [SPC, GRD2, BDF, MAI]
+    A: [CGS, MNK, CLY2, CPR]
+    B: [SPC, GRD2, BDF, MAI]
   1:
-    blue: [CHB, KHS, MRT, KES]
-    red: [BTE, null, BPV, KEG]
+    A: [CHB, KHS, MRT, KES]
+    B: [BTE, null, BPV, KEG]
   2:
-    blue: [TBG, HRS, BRN, CLC]
-    red: [WHS, KDE, CRB, BPV2]
+    A: [TBG, HRS, BRN, CLC]
+    B: [WHS, KDE, CRB, BPV2]
   3:
-    blue: [null, BGS, TWG, TTN]
-    red: [HZW, CLF, CAT, CHR]
+    A: [null, BGS, TWG, TTN]
+    B: [HZW, CLF, CAT, CHR]
   4:
-    blue: [BMS, PSC, HAM, UPP]
-    red: [DUL, null, BRK, QMC]
+    A: [BMS, PSC, HAM, UPP]
+    B: [DUL, null, BRK, QMC]
   5:
-    blue: [WGS, HSO, BWS, JMS]
-    red: [CLY, LFG, MFG, MCA]
+    A: [WGS, HSO, BWS, JMS]
+    B: [CLY, LFG, MFG, MCA]
   6:
-    blue: [RGS, SWI, GRD, LSS]
-    red: [QEH, COT, CDU, MCS]
+    A: [RGS, SWI, GRD, LSS]
+    B: [QEH, COT, CDU, MCS]
   7:
-    blue: [CHB, GRD2, CLY2, null]
-    red: [CGS, MNK, MAI, KES]
+    A: [CHB, GRD2, CLY2, null]
+    B: [CGS, MNK, MAI, KES]
   8:
-    blue: [TBG, KHS, KDE, KEG]
-    red: [WHS, BTE, CLC, MRT]
+    A: [TBG, KHS, KDE, KEG]
+    B: [WHS, BTE, CLC, MRT]
   9:
-    blue: [SPC, BGS, CAT, TWG]
-    red: [null, BPV2, CPR, TTN]
+    A: [SPC, BGS, CAT, TWG]
+    B: [null, BPV2, CPR, TTN]
   10:
-    blue: [HRS, DUL, BMS, CHR]
-    red: [BRN, BDF, HZW, UPP]
+    A: [HRS, DUL, BMS, CHR]
+    B: [BRN, BDF, HZW, UPP]
   11:
-    blue: [LFG, JMS, PSC, WGS]
-    red: [null, MFG, HSO, QMC]
+    A: [LFG, JMS, PSC, WGS]
+    B: [null, MFG, HSO, QMC]
   12:
-    blue: [MCS, BRK, SWI, BWS]
-    red: [QEH, CLY, RGS, MCA]
+    A: [MCS, BRK, SWI, BWS]
+    B: [QEH, CLY, RGS, MCA]
   13:
-    blue: [COT, CRB, BPV, LSS]
-    red: [HAM, CDU, CLF, GRD]
+    A: [COT, CRB, BPV, LSS]
+    B: [HAM, CDU, CLF, GRD]
   14:
-    blue: [CGS, KHS, KES, MRT]
-    red: [TBG, BTE, CLY2, KEG]
+    A: [CGS, KHS, KES, MRT]
+    B: [TBG, BTE, CLY2, KEG]
   15:
-    blue: [CHB, KDE, BGS, CLC]
-    red: [WHS, MNK, null, CPR]
+    A: [CHB, KDE, BGS, CLC]
+    B: [WHS, MNK, null, CPR]
   16:
-    blue: [SPC, HRS, BDF, BMS]
-    red: [DUL, BRN, HZW, null]
+    A: [SPC, HRS, BDF, BMS]
+    B: [DUL, BRN, HZW, null]
   17:
-    blue: [WGS, UPP, CAT, BPV2]
-    red: [TTN, JMS, QMC, LFG]
+    A: [WGS, UPP, CAT, BPV2]
+    B: [TTN, JMS, QMC, LFG]
   18:
-    blue: [HSO, PSC, BRK, CHR]
-    red: [MCS, MFG, TWG, GRD2]
+    A: [HSO, PSC, BRK, CHR]
+    B: [MCS, MFG, TWG, GRD2]
   19:
-    blue: [COT, null, RGS, CLF]
-    red: [CDU, SWI, BPV, MCA]
+    A: [COT, null, RGS, CLF]
+    B: [CDU, SWI, BPV, MCA]
   20:
-    blue: [CLY, CRB, GRD, BWS]
-    red: [QEH, HAM, LSS, MAI]
+    A: [CLY, CRB, GRD, BWS]
+    B: [QEH, HAM, LSS, MAI]
   21:
-    blue: [CHB, KDE, CLY2, KEG]
-    red: [TBG, WHS, null, KES]
+    A: [CHB, KDE, CLY2, KEG]
+    B: [TBG, WHS, null, KES]
   22:
-    blue: [HRS, null, HZW, MRT]
-    red: [SPC, MNK, BTE, BRN]
+    A: [HRS, null, HZW, MRT]
+    B: [SPC, MNK, BTE, BRN]
   23:
-    blue: [TTN, BMS, CAT, JMS]
-    red: [DUL, BDF, WGS, LFG]
+    A: [TTN, BMS, CAT, JMS]
+    B: [DUL, BDF, WGS, LFG]
   24:
-    blue: [CGS, GRD2, QMC, BGS]
-    red: [KHS, HSO, BPV2, TWG]
+    A: [CGS, GRD2, QMC, BGS]
+    B: [KHS, HSO, BPV2, TWG]
   25:
-    blue: [COT, MFG, BRK, CPR]
-    red: [CDU, SWI, RGS, UPP]
+    A: [COT, MFG, BRK, CPR]
+    B: [CDU, SWI, RGS, UPP]
   26:
-    blue: [HAM, BWS, BPV, LSS]
-    red: [CLY, MCS, null, PSC]
+    A: [HAM, BWS, BPV, LSS]
+    B: [CLY, MCS, null, PSC]
   27:
-    blue: [MAI, CLF, CRB, MCA]
-    red: [QEH, GRD, CHR, CLC]
+    A: [MAI, CLF, CRB, MCA]
+    B: [QEH, GRD, CHR, CLC]
   28:
-    blue: [CHB, MNK, BTE, HZW]
-    red: [SPC, KEG, BRN, MRT]
+    A: [CHB, MNK, BTE, HZW]
+    B: [SPC, KEG, BRN, MRT]
   29:
-    blue: [BDF, KES, KDE, JMS]
-    red: [DUL, WGS, null, TTN]
+    A: [BDF, KES, KDE, JMS]
+    B: [DUL, WGS, null, TTN]
   30:
-    blue: [CGS, BMS, HSO, BPV2]
-    red: [TBG, GRD2, CAT, LFG]
+    A: [CGS, BMS, HSO, BPV2]
+    B: [TBG, GRD2, CAT, LFG]
   31:
-    blue: [HRS, CDU, UPP, MFG]
-    red: [WHS, RGS, BRK, BGS]
+    A: [HRS, CDU, UPP, MFG]
+    B: [WHS, RGS, BRK, BGS]
   32:
-    blue: [KHS, HAM, SWI, null]
-    red: [CLY, COT, TWG, LSS]
+    A: [KHS, HAM, SWI, null]
+    B: [CLY, COT, TWG, LSS]
   33:
-    blue: [MCS, CLY2, CLF, BWS]
-    red: [QEH, PSC, GRD, CPR]
+    A: [MCS, CLY2, CLF, BWS]
+    B: [QEH, PSC, GRD, CPR]
   34:
-    blue: [null, CHR, BPV, MCA]
-    red: [MAI, CRB, CLC, QMC]
+    A: [null, CHR, BPV, MCA]
+    B: [MAI, CRB, CLC, QMC]
   35:
-    blue: [MNK, BDF, MRT, DUL]
-    red: [TTN, BTE, HZW, KES]
+    A: [MNK, BDF, MRT, DUL]
+    B: [TTN, BTE, HZW, KES]
   36:
-    blue: [CGS, TBG, KDE, CAT]
-    red: [SPC, CHB, null, HSO]
+    A: [CGS, TBG, KDE, CAT]
+    B: [SPC, CHB, null, HSO]
   37:
-    blue: [GRD2, BMS, RGS, CDU]
-    red: [KEG, MFG, BGS, WGS]
+    A: [GRD2, BMS, RGS, CDU]
+    B: [KEG, MFG, BGS, WGS]
   38:
-    blue: [CLY, SWI, BRK, JMS]
-    red: [COT, HAM, BRN, BPV2]
+    A: [CLY, SWI, BRK, JMS]
+    B: [COT, HAM, BRN, BPV2]
   39:
-    blue: [KHS, BWS, CPR, TWG]
-    red: [MCS, GRD, LSS, LFG]
+    A: [KHS, BWS, CPR, TWG]
+    B: [MCS, GRD, LSS, LFG]
   40:
-    blue: [HRS, QEH, null, MCA]
-    red: [null, CLF, UPP, CRB]
+    A: [HRS, QEH, null, MCA]
+    B: [null, CLF, UPP, CRB]
   41:
-    blue: [CLY2, QMC, BPV, CLC]
-    red: [WHS, PSC, CHR, MAI]
+    A: [CLY2, QMC, BPV, CLC]
+    B: [WHS, PSC, CHR, MAI]
   42:
-    blue: [CHB, BDF, HSO, CAT]
-    red: [SPC, CGS, HZW, null]
+    A: [CHB, BDF, HSO, CAT]
+    B: [SPC, CGS, HZW, null]
   43:
-    blue: [GRD2, KDE, MFG, MRT]
-    red: [TBG, MNK, BMS, CDU]
+    A: [GRD2, KDE, MFG, MRT]
+    B: [TBG, MNK, BMS, CDU]
   44:
-    blue: [COT, HAM, BGS, KES]
-    red: [CLY, TTN, BRN, KEG]
+    A: [COT, HAM, BGS, KES]
+    B: [CLY, TTN, BRN, KEG]
   45:
-    blue: [SWI, CPR, TWG, LFG]
-    red: [MCS, BTE, GRD, KHS]
+    A: [SWI, CPR, TWG, LFG]
+    B: [MCS, BTE, GRD, KHS]
   46:
-    blue: [HRS, RGS, BWS, BPV2]
-    red: [QEH, DUL, CLF, JMS]
+    A: [HRS, RGS, BWS, BPV2]
+    B: [QEH, DUL, CLF, JMS]
   47:
-    blue: [null, PSC, BRK, CLC]
-    red: [WGS, QMC, LSS, MCA]
+    A: [null, PSC, BRK, CLC]
+    B: [WGS, QMC, LSS, MCA]
   48:
-    blue: [WHS, UPP, BPV, MAI]
-    red: [null, CLY2, CRB, CHR]
+    A: [WHS, UPP, BPV, MAI]
+    B: [null, CLY2, CRB, CHR]
   49:
-    blue: [TBG, BMS, MFG, null]
-    red: [CHB, CGS, BDF, CDU]
+    A: [TBG, BMS, MFG, null]
+    B: [CHB, CGS, BDF, CDU]
   50:
-    blue: [GRD2, HAM, HZW, KDE]
-    red: [SPC, COT, MRT, TTN]
+    A: [GRD2, HAM, HZW, KDE]
+    B: [SPC, COT, MRT, TTN]
   51:
-    blue: [LFG, KES, SWI, KEG]
-    red: [CLY, BTE, HSO, CPR]
+    A: [LFG, KES, SWI, KEG]
+    B: [CLY, BTE, HSO, CPR]
   52:
-    blue: [KHS, RGS, CAT, DUL]
-    red: [HRS, MNK, BGS, BPV2]
+    A: [KHS, RGS, CAT, DUL]
+    B: [HRS, MNK, BGS, BPV2]
   53:
-    blue: [BRN, BRK, CLC, MCA]
-    red: [PSC, CLF, QMC, LSS]
+    A: [BRN, BRK, CLC, MCA]
+    B: [PSC, CLF, QMC, LSS]
   54:
-    blue: [BPV, UPP, CHR, JMS]
-    red: [null, MAI, GRD, BWS]
+    A: [BPV, UPP, CHR, JMS]
+    B: [null, MAI, GRD, BWS]
   55:
-    blue: [WHS, MCS, CRB, TWG]
-    red: [QEH, null, CLY2, WGS]
+    A: [WHS, MCS, CRB, TWG]
+    B: [QEH, null, CLY2, WGS]
   56:
-    blue: [CHB, TBG, CGS, SPC]
-    red: [TTN, KDE, MFG, null]
+    A: [CHB, TBG, CGS, SPC]
+    B: [TTN, KDE, MFG, null]
   57:
-    blue: [GRD2, BTE, SWI, KES]
-    red: [BMS, HZW, CPR, KEG]
+    A: [GRD2, BTE, SWI, KES]
+    B: [BMS, HZW, CPR, KEG]
   58:
-    blue: [COT, BDF, KHS, LFG]
-    red: [HRS, DUL, HSO, BGS]
+    A: [COT, BDF, KHS, LFG]
+    B: [HRS, DUL, HSO, BGS]
   59:
-    blue: [MNK, PSC, RGS, CLC]
-    red: [BRK, CLF, BPV2, LSS]
+    A: [MNK, PSC, RGS, CLC]
+    B: [BRK, CLF, BPV2, LSS]
   60:
-    blue: [GRD, MCA, UPP, JMS]
-    red: [CLY, QMC, CHR, BWS]
+    A: [GRD, MCA, UPP, JMS]
+    B: [CLY, QMC, CHR, BWS]
   61:
-    blue: [CLY2, BRN, TWG, MAI]
-    red: [WHS, QEH, null, CDU]
+    A: [CLY2, BRN, TWG, MAI]
+    B: [WHS, QEH, null, CDU]
   62:
-    blue: [MCS, HAM, WGS, BPV]
-    red: [null, CRB, CAT, MRT]
+    A: [MCS, HAM, WGS, BPV]
+    B: [null, CRB, CAT, MRT]
   63:
-    blue: [SWI, BMS, null, KEG]
-    red: [SPC, GRD2, CPR, KES]
+    A: [SWI, BMS, null, KEG]
+    B: [SPC, GRD2, CPR, KES]
   64:
-    blue: [CGS, KHS, HSO, LFG]
-    red: [TBG, COT, BTE, BGS]
+    A: [CGS, KHS, HSO, LFG]
+    B: [TBG, COT, BTE, BGS]
   65:
-    blue: [MNK, BDF, MFG, LSS]
-    red: [HRS, TTN, CLF, CHB]
+    A: [MNK, BDF, MFG, LSS]
+    B: [HRS, TTN, CLF, CHB]
   66:
-    blue: [HZW, BPV2, CLC, JMS]
-    red: [KDE, PSC, BWS, MCA]
+    A: [HZW, BPV2, CLC, JMS]
+    B: [KDE, PSC, BWS, MCA]
   67:
-    blue: [QEH, QMC, TWG, UPP]
-    red: [WHS, DUL, CLY2, GRD]
+    A: [QEH, QMC, TWG, UPP]
+    B: [WHS, DUL, CLY2, GRD]
   68:
-    blue: [CLY, null, BPV, CAT]
-    red: [null, HAM, RGS, MAI]
+    A: [CLY, null, BPV, CAT]
+    B: [null, HAM, RGS, MAI]
   69:
-    blue: [MCS, BRN, CHR, MRT]
-    red: [CDU, BRK, CRB, WGS]
+    A: [MCS, BRN, CHR, MRT]
+    B: [CDU, BRK, CRB, WGS]
   70:
-    blue: [BMS, LFG, BTE, BGS]
-    red: [COT, null, GRD2, KHS]
+    A: [BMS, LFG, BTE, BGS]
+    B: [COT, null, GRD2, KHS]
   71:
-    blue: [MNK, KES, HSO, TTN]
-    red: [CGS, CLF, MFG, SWI]
+    A: [MNK, KES, HSO, TTN]
+    B: [CGS, CLF, MFG, SWI]
   72:
-    blue: [TBG, PSC, HZW, BWS]
-    red: [BDF, CPR, CLC, MCA]
+    A: [TBG, PSC, HZW, BWS]
+    B: [BDF, CPR, CLC, MCA]
   73:
-    blue: [CHB, BPV2, GRD, QMC]
-    red: [SPC, DUL, KDE, UPP]
+    A: [CHB, BPV2, GRD, QMC]
+    B: [SPC, DUL, KDE, UPP]
   74:
-    blue: [CLY, null, CLY2, CAT]
-    red: [WHS, HRS, HAM, KEG]
+    A: [CLY, null, CLY2, CAT]
+    B: [WHS, HRS, HAM, KEG]
   75:
-    blue: [null, BRN, CRB, JMS]
-    red: [CDU, LSS, CHR, TWG]
+    A: [null, BRN, CRB, JMS]
+    B: [CDU, LSS, CHR, TWG]
   76:
-    blue: [WGS, RGS, BPV, MRT]
-    red: [QEH, MCS, BRK, MAI]
+    A: [WGS, RGS, BPV, MRT]
+    B: [QEH, MCS, BRK, MAI]
   77:
-    blue: [CGS, BMS, MFG, BTE]
-    red: [GRD2, SWI, BGS, HSO]
+    A: [CGS, BMS, MFG, BTE]
+    B: [GRD2, SWI, BGS, HSO]
   78:
-    blue: [TBG, TTN, BDF, MCA]
-    red: [null, HZW, CLF, LFG]
+    A: [TBG, TTN, BDF, MCA]
+    B: [null, HZW, CLF, LFG]
   79:
-    blue: [SPC, KHS, PSC, BPV2]
-    red: [DUL, UPP, CLC, COT]
+    A: [SPC, KHS, PSC, BPV2]
+    B: [DUL, UPP, CLC, COT]
   80:
-    blue: [CHB, WHS, BWS, null]
-    red: [HAM, QMC, CAT, KEG]
+    A: [CHB, WHS, BWS, null]
+    B: [HAM, QMC, CAT, KEG]
   81:
-    blue: [MNK, GRD, TWG, JMS]
-    red: [KDE, CDU, BRN, CPR]
+    A: [MNK, GRD, TWG, JMS]
+    B: [KDE, CDU, BRN, CPR]
   82:
-    blue: [CLY, WGS, CHR, MAI]
-    red: [MCS, null, LSS, MRT]
+    A: [CLY, WGS, CHR, MAI]
+    B: [MCS, null, LSS, MRT]
   83:
-    blue: [HRS, CLY2, BRK, BPV]
-    red: [QEH, RGS, CRB, KES]
+    A: [HRS, CLY2, BRK, BPV]
+    B: [QEH, RGS, CRB, KES]
   84:
-    blue: [CLF, BDF, null, BTE]
-    red: [HZW, LFG, HSO, MCA]
+    A: [CLF, BDF, null, BTE]
+    B: [HZW, LFG, HSO, MCA]
   85:
-    blue: [GRD2, UPP, TTN, KHS]
-    red: [TBG, DUL, SWI, BPV2]
+    A: [GRD2, UPP, TTN, KHS]
+    B: [TBG, DUL, SWI, BPV2]
   86:
-    blue: [CGS, COT, CLC, KEG]
-    red: [WHS, MFG, BWS, CAT]
+    A: [CGS, COT, CLC, KEG]
+    B: [WHS, MFG, BWS, CAT]
   87:
-    blue: [BRN, GRD, BGS, QMC]
-    red: [SPC, null, CDU, JMS]
+    A: [BRN, GRD, BGS, QMC]
+    B: [SPC, null, CDU, JMS]
   88:
-    blue: [MNK, KDE, MCS, MAI]
-    red: [CLY, HAM, TWG, MRT]
+    A: [MNK, KDE, MCS, MAI]
+    B: [CLY, HAM, TWG, MRT]
   89:
-    blue: [BMS, CLY2, null, LSS]
-    red: [QEH, PSC, CRB, BPV]
+    A: [BMS, CLY2, null, LSS]
+    B: [QEH, PSC, CRB, BPV]
   90:
-    blue: [CHB, RGS, CHR, CPR]
-    red: [HRS, WGS, BRK, KES]
+    A: [CHB, RGS, CHR, CPR]
+    B: [HRS, WGS, BRK, KES]
   91:
-    blue: [DUL, BTE, BPV2, MCA]
-    red: [TBG, CLF, HSO, GRD2]
+    A: [DUL, BTE, BPV2, MCA]
+    B: [TBG, CLF, HSO, GRD2]
   92:
-    blue: [TTN, SWI, CAT, CLC]
-    red: [CGS, COT, UPP, BWS]
+    A: [TTN, SWI, CAT, CLC]
+    B: [CGS, COT, UPP, BWS]
   93:
-    blue: [WHS, KHS, QMC, SPC]
-    red: [null, BDF, GRD, KEG]
+    A: [WHS, KHS, QMC, SPC]
+    B: [null, BDF, GRD, KEG]
   94:
-    blue: [CLY, MNK, KDE, CDU]
-    red: [MAI, JMS, null, MRT]
+    A: [CLY, MNK, KDE, CDU]
+    B: [MAI, JMS, null, MRT]
   95:
-    blue: [QEH, CLY2, HZW, BGS]
-    red: [PSC, BRN, BPV, MFG]
+    A: [QEH, CLY2, HZW, BGS]
+    B: [PSC, BRN, BPV, MFG]
   96:
-    blue: [MCS, BMS, CHR, KES]
-    red: [CHB, HAM, WGS, null]
+    A: [MCS, BMS, CHR, KES]
+    B: [CHB, HAM, WGS, null]
   97:
-    blue: [RGS, BRK, TWG, LFG]
-    red: [HRS, CRB, CPR, LSS]
+    A: [RGS, BRK, TWG, LFG]
+    B: [HRS, CRB, CPR, LSS]
   98:
-    blue: [GRD2, BWS, CLC, TTN]
-    red: [CGS, DUL, BTE, CAT]
+    A: [GRD2, BWS, CLC, TTN]
+    B: [CGS, DUL, BTE, CAT]
   99:
-    blue: [SPC, MCA, CLF, KEG]
-    red: [WHS, BDF, SWI, BPV2]
+    A: [SPC, MCA, CLF, KEG]
+    B: [WHS, BDF, SWI, BPV2]
   100:
-    blue: [COT, null, QMC, MNK]
-    red: [KDE, HSO, GRD, MAI]
+    A: [COT, null, QMC, MNK]
+    B: [KDE, HSO, GRD, MAI]
   101:
-    blue: [TBG, CLY2, UPP, MRT]
-    red: [CLY, PSC, null, BGS]
+    A: [TBG, CLY2, UPP, MRT]
+    B: [CLY, PSC, null, BGS]
   102:
-    blue: [QEH, CHB, MFG, BRN]
-    red: [null, CDU, BPV, KES]
+    A: [QEH, CHB, MFG, BRN]
+    B: [null, CDU, BPV, KES]
   103:
-    blue: [HAM, CHR, CPR, LFG]
-    red: [BMS, WGS, CRB, TWG]
+    A: [HAM, CHR, CPR, LFG]
+    B: [BMS, WGS, CRB, TWG]
   104:
-    blue: [HRS, MCS, RGS, JMS]
-    red: [KHS, BRK, HZW, LSS]
+    A: [HRS, MCS, RGS, JMS]
+    B: [KHS, BRK, HZW, LSS]
