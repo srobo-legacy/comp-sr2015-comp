@@ -1,10 +1,8 @@
 arenas:
-  red:
-    display_name: 'Red'
-    colour: '#ff0000'
-  blue:
-    display_name: 'Blue'
-    colour: '#0000ff'
+  A:
+    display_name: 'A'
+  B:
+    display_name: 'B'
 
 corners:
   0:
@@ -15,4 +13,3 @@ corners:
     colour: '#ff00ff'
   3:
     colour: '#ffff00'
-

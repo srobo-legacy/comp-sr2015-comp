@@ -53,4 +53,4 @@ knockout:
   single_arena:
     rounds: 3        # Quarters, semis and finals onwards drop to 1 arena
     arenas:
-    - red
+    - A
