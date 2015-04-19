@@ -7,81 +7,115 @@
 #
 # Location names aren't used, but make this file easier to update.
 
-layout:
+teams:
 # Floor 0 starts here
-  - floor-0-group-0:
-    - MRT
-    - MFG
-    - BPV
-    - QMC
-  - floor-0-group-1:
-    - KDE
-    - LFG
-    - CHB
-    - BPV2
+  - name: floor-0-group-0
+    display_name: Group 0, Ground Floor
+    teams:
+      - MRT
+      - MFG
+      - BPV
+      - QMC
 
-  - floor-0-group-2:
-    - TWG
-    - MAI
-    - CGS
-    - HZW
-  - floor-0-group-3:
-    - CLY2
-    - CLY
-    - CPR
-    - TBG
+  - name: floor-0-group-1
+    display_name: Group 1, Ground Floor
+    teams:
+      - KDE
+      - LFG
+      - CHB
+     - BPV2
 
-  - floor-0-group-4:
-    - HAM
-    - CRB
-    - COT
-    - BRN
-  - floor-0-group-5:
-    - SWI
-    - LSS
+  - name: floor-0-group-2
+    display_name: Group 2, Ground Floor
+    teams:
+      - TWG
+      - MAI
+      - CGS
+      - HZW
+
+  - name: floor-0-group-3
+    display_name: Group 3, Ground Floor
+    teams:
+      - CLY2
+      - CLY
+      - CPR
+      - TBG
+
+  - name: floor-0-group-4
+    display_name: Group 4, Ground Floor
+    teams:
+      - HAM
+      - CRB
+      - COT
+      - BRN
+
+  - name: floor-0-group-5
+    display_name: Group 5, Ground Floor
+    teams:
+      - SWI
+      - LSS
 
 # Floor 2 starts here
-  - floor-2-group-0:
-    - KES
-    - GRD
-    - GRD2
-    - CDU
-  - floor-2-group-1:
-    - QEH
-    - CLF
-    - PSC
-    - WHS
+  - name: floor-2-group-0
+    display_name: Group 0, Second Floor
+    teams:
+      - KES
+      - GRD
+      - GRD2
+      - CDU
 
-  - floor-2-group-2:
-    - BMS
-    - DUL
-    - MCS
-    - CHR
-  - floor-2-group-3:
-    - BTE
-    - HRS
-    - TTN
-    - KEG
+  - name: floor-2-group-1
+    display_name: Group 1, Second Floor
+    teams:
+      - QEH
+      - CLF
+      - PSC
+      - WHS
 
-  - floor-2-group-4:
-    - CCR
-    - WGS
-    - BDF
-    - BGS
-  - floor-2-group-5:
-    - MCA
-    - CLC
-    - SPC
-    - HSO
+  - name: floor-2-group-2
+    display_name: Group 2, Second Floor
+    teams:
+      - BMS
+      - DUL
+      - MCS
+      - CHR
 
-  - floor-2-group-6:
-    - CAT
-    - KHS
-    - RGS
-    - JMS
+  - name: floor-2-group-3
+    display_name: Group 3, Second Floor
+    teams:
+      - BTE
+      - HRS
+      - TTN
+      - KEG
 
-  - floor-2-group-7:
-    - BRK
-    - UPP
-    - BWS
-    - MNK
+  - name: floor-2-group-4
+    display_name: Group 4, Second Floor
+    teams:
+      - CCR
+      - WGS
+      - BDF
+      - BGS
+
+  - name: floor-2-group-5
+    display_name: Group 5, Second Floor
+    teams:
+      - MCA
+      - CLC
+      - SPC
+      - HSO
+
+  - name: floor-2-group-6
+    display_name: Group 6, Second Floor
+    teams:
+      - CAT
+      - KHS
+      - RGS
+      - JMS
+
+  - name: floor-2-group-7
+    display_name: Group 7, Second Floor
+    teams:
+      - BRK
+      - UPP
+      - BWS
+      - MNK
