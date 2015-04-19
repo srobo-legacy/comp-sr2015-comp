@@ -23,7 +23,7 @@ teams:
       - KDE
       - LFG
       - CHB
-     - BPV2
+      - BPV2
 
   - name: floor-0-group-2
     display_name: Group 2, Ground Floor
