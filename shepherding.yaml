@@ -1,69 +1,66 @@
 shepherds:
   - teams:
+      - MRT
+      - QMC
+      - MFG
+      - BPV
+      - KDE
+      - BPV2
+      - LFG
+      - CHB
+      - CLY2
+      - CLY
+    colour: yellow
+
+  - teams:
+      - TBG
+      - CPR
+      - TWG
+      - HZW
+      - MAI
+      - CGS
+      - HAM
+      - BRN
+      - CRB
+      - COT
+      - SWI
+      - LSS
+    colour: green
+
+  - teams:
+      - KES
+      - GRD
+      - GRD2
+      - CDU
+      - QEH
+      - CLF
+      - PSC
+      - WHS
+      - BMS
+      - DUL
+      - MCS
+      - CHR
+      - BTE
+      - HRS
+      - TTN
+      - KEG
+    colour: red
+
+  - teams:
+      - CCR
+      - WGS
       - BDF
       - BGS
-      - BMS
-      - BPV
-      - BPV2
-      - BRK
-      - BRN
-      - BTE
-      - BWS
-      - CAT
-      - CDU
-    colour: '#FF0000'
-
-  - teams:
-      - CGS
-      - CHB
-      - CHR
-      - CLC
-      - CLF
-      - CLY
-      - CLY2
-      - COT
-      - CPR
-      - CRB
-      - DUL
-      - GRD
-    colour: '#FFFF00'
-
-  - teams:
-      - GRD2
-      - HAM
-      - HRS
-      - HSO
-      - HZW
-      - JMS
-      - KDE
-      - KEG
-      - KES
-      - KHS
-      - LFG
-    colour: '#00FFFF'
-
-  - teams:
-      - LSS
-      - MAI
       - MCA
-      - MCS
-      - MFG
-      - MNK
-      - MRT
-      - PSC
-      - QEH
-      - QMC
-      - RGS
+      - CLC
       - SPC
-      - SWI
-      - TBG
-      - TTN
-      - TWG
+      - HSO
+      - CAT
+      - KHS
+      - RGS
+      - JMS
+      - BRK
       - UPP
-      - WGS
-      - WHS
-    colour: '#0000FF'
-
-  - teams:
-      - ???
-    colour: '#00FF00'
+      - BWS
+      - MNK
+    colour: blue
