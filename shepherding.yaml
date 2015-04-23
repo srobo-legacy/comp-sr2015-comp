@@ -10,7 +10,7 @@ shepherds:
       - CHB
       - CLY2
       - CLY
-    colour: yellow
+    colour: '#F2F5A9'
 
   - teams:
       - TBG
@@ -25,7 +25,7 @@ shepherds:
       - COT
       - SWI
       - LSS
-    colour: green
+    colour: '#A9F5A9'
 
   - teams:
       - KES
@@ -44,7 +44,7 @@ shepherds:
       - HRS
       - TTN
       - KEG
-    colour: red
+    colour: '#F5A9A9'
 
   - teams:
       - CCR
@@ -63,4 +63,4 @@ shepherds:
       - UPP
       - BWS
       - MNK
-    colour: blue
+    colour: '#A9A9F5'
