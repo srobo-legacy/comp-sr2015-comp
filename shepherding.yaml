@@ -1,5 +1,6 @@
 shepherds:
-  - teams:
+  - name: 'Yellow'
+    teams:
       - MRT
       - QMC
       - MFG
@@ -12,7 +13,8 @@ shepherds:
       - CLY
     colour: '#F2F5A9'
 
-  - teams:
+  - name: 'Green'
+    teams:
       - TBG
       - CPR
       - TWG
@@ -27,7 +29,8 @@ shepherds:
       - LSS
     colour: '#A9F5A9'
 
-  - teams:
+  - name: Red
+    teams:
       - KES
       - GRD
       - GRD2
@@ -46,7 +49,8 @@ shepherds:
       - KEG
     colour: '#F5A9A9'
 
-  - teams:
+  - name: Blue
+    teams:
       - CCR
       - WGS
       - BDF
