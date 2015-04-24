@@ -95,9 +95,6 @@ teams:
   KES:
     name: KESbotics
     rookie: false
-  KHS:
-    name: Kingsbury High School
-    rookie: false
   LFG:
     name: Team LFG
     rookie: false
@@ -134,17 +131,8 @@ teams:
   RGS:
     name: RGS Guildford
     rookie: false
-  SPC:
-    name: St.Peter's Robotics Team
-    rookie: true
   SWI:
     name: South Wilts Grammar School for Girls
-    rookie: false
-  TBG:
-    name: Torquay Boys Grammar School
-    rookie: false
-  TTN:
-    name: TTN Robotics
     rookie: false
   TWG:
     name: Team TWGSB
@@ -154,7 +142,4 @@ teams:
     rookie: true
   WGS:
     name: Team WGS
-    rookie: true
-  WHS:
-    name: Westcliff High School for Girls
     rookie: true
