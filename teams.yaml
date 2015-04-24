@@ -57,7 +57,7 @@ teams:
     name: Cotham School Robotics
     rookie: true
   CPR:
-    name: The Cooper School
+    name: Bicester Bad Boys
     rookie: false
   CRB:
     name: Cranbrook School
@@ -93,7 +93,7 @@ teams:
     name: King Edward VI Grammar School, Chelmsford
     rookie: true
   KES:
-    name: King Edward VI School
+    name: KESbotics
     rookie: false
   KHS:
     name: Kingsbury High School
@@ -108,7 +108,7 @@ teams:
     name: 42 * 2 - Double Vision
     rookie: false
   MCA:
-    name: '011011010110001101100001'
+    name: The Heath Robinson contraption
     rookie: true
   MCS:
     name: MCS Robotics
