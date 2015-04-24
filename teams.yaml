@@ -12,13 +12,13 @@ teams:
     name: Team Barton Peveril
     rookie: false
   BPV2:
-    name: Barton Peveril College (team 2)
+    name: Barton Peveril College
     rookie: false
   BRK:
     name: 404 (Robot Not Found)
     rookie: false
   BRN:
-    name: St Brendan's Sixth Form College
+    name: Team Clementine
     rookie: false
   BTE:
     name: MealsOnWheels
@@ -36,7 +36,7 @@ teams:
     name: CGS Robotics
     rookie: false
   CHB:
-    name: King Edward VI Camp Hill Schools Student Robotics Team
+    name: KEVICH Schools Student Robotics Team
     rookie: true
   CHR:
     name: Christ's Hospital
@@ -51,7 +51,7 @@ teams:
     name: Team Collyer's
     rookie: false
   CLY2:
-    name: Collyers Sixth Form College
+    name: Athena
     rookie: false
   COT:
     name: Cotham School Robotics
@@ -87,7 +87,7 @@ teams:
     name: Team TANK
     rookie: false
   KDE:
-    name: Team KDE
+    name: tyrannous techies
     rookie: false
   KEG:
     name: King Edward VI Grammar School, Chelmsford
@@ -99,7 +99,7 @@ teams:
     name: Kingsbury High School
     rookie: false
   LFG:
-    name: Lion-Feuchtwanger-Gymnasium
+    name: Team LFG
     rookie: false
   LSS:
     name: Lawrence Sheriff School
@@ -114,7 +114,7 @@ teams:
     name: MCS Robotics
     rookie: true
   MFG:
-    name: Mirfield Free Grammar
+    name: MFG
     rookie: false
   MNK:
     name: Team Protos
