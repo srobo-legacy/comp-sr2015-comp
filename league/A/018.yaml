@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 18
+other:
+  unclaimed_flags: 3
+teams:
+  BMS:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 0
+  CHB:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  CLY2:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  MRT:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 2
