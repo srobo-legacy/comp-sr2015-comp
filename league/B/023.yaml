@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 23
+other:
+  unclaimed_flags: 1
+teams:
+  CAT:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  GRD:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  KEG:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  WGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
