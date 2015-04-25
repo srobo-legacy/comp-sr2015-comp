@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 36
+other:
+  unclaimed_flags: 3
+teams:
+  HAM:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  HSO:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  MCA:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 2
+  MRT:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 3
