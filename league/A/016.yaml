@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 16
+other:
+  unclaimed_flags: 1
+teams:
+  BRN:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  BWS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  CAT:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  KES:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
