@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 19
+other:
+  unclaimed_flags: 1
+teams:
+  CDU:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  CGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  HAM:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  HZW:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
