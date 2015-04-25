@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 16
+other:
+  unclaimed_flags: 2
+teams:
+  DUL:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  MCS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  MNK:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 2
+  TWG:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
