@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 17
+other:
+  unclaimed_flags: 3
+teams:
+  CLC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  PSC:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 2
+  UPP:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 1
+  WGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
