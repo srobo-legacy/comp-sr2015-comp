@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 20
+other:
+  unclaimed_flags: 2
+teams:
+  CPR:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  HRS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  JMS:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 3
+  MCA:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
