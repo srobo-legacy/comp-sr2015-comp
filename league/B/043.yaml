@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 43
+other:
+  unclaimed_flags: 2
+teams:
+  CLC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  DUL:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  HAM:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  MFG:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 2
