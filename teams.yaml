@@ -99,7 +99,7 @@ teams:
     name: Team LFG
     rookie: false
   LSS:
-    name: Lawrence Sheriff School
+    name: !!python/str "LSS Nessie \u1559( ^\u2092^ c)"
     rookie: false
   MAI:
     name: 42 * 2 - Double Vision
