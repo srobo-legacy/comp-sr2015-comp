@@ -3,7 +3,7 @@ teams:
     name: Bedford School
     rookie: false
   BGS:
-    name: BGS Robotics
+    name: Team BGS GAFF-A
     rookie: false
   BMS:
     name: Team BMS
@@ -36,7 +36,7 @@ teams:
     name: CGS Robotics
     rookie: false
   CHB:
-    name: KEVICH Schools Student Robotics Team
+    name: Camp Hill Robotics
     rookie: true
   CHR:
     name: Christ's Hospital
