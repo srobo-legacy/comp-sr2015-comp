@@ -11,7 +11,7 @@ teams:
   CHR:
     disqualified: false
     flags: 1
-    present: true
+    present: false
     zone: 3
   COT:
     disqualified: false
@@ -21,5 +21,5 @@ teams:
   QEH:
     disqualified: false
     flags: 0
-    present: false
+    present: true
     zone: 1
