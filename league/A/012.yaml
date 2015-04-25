@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 12
+other:
+  unclaimed_flags: 1
+teams:
+  CHB:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  CLY2:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  CRB:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  HZW:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
