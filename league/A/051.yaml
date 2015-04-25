@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 51
+other:
+  unclaimed_flags: 0
+teams:
+  BRK:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  BTE:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  CLY:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  HAM:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 3
