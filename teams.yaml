@@ -93,13 +93,13 @@ teams:
     name: King Edward VI Grammar School, Chelmsford
     rookie: true
   KES:
-    name: KESbotics
+    name: I find your lack of faith... Disturbing.
     rookie: false
   LFG:
     name: Team LFG
     rookie: false
   LSS:
-    name: Lawrence Sheriff School
+    name: !!python/str "LSS Nessie \u1559( ^\u2092^ c)"
     rookie: false
   MAI:
     name: 42 * 2 - Double Vision
