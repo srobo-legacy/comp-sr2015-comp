@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 19
+other:
+  unclaimed_flags: 1
+teams:
+  BPV2:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  MAI:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  QMC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  SWI:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
