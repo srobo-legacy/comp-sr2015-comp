@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 26
+other:
+  unclaimed_flags: 2
+teams:
+  CLY2:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  KDE:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 0
+  KES:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  SWI:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
