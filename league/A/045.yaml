@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 45
+other:
+  unclaimed_flags: 0
+teams:
+  CLY2:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 1
+  HSO:
+    disqualified: false
+    flags: 3
+    present: true
+    zone: 0
+  KEG:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  QMC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
