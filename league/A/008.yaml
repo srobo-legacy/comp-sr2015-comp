@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 8
+other:
+  unclaimed_flags: 2
+teams:
+  CDU:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  CHR:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  COT:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  QEH:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 1
