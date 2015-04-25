@@ -1,16 +1,16 @@
 shepherds:
   - name: 'Yellow'
     teams:
-      - MRT
       - QMC
       - MFG
       - BPV
       - KDE
       - BPV2
       - LFG
-      - CHB
       - CLY2
       - CLY
+      - GRD
+      - GRD2
     colour: '#F2F5A9'
 
   - name: 'Green'
@@ -32,14 +32,12 @@ shepherds:
   - name: Red
     teams:
       - KES
-      - GRD
-      - GRD2
       - CDU
       - QEH
       - CLF
       - PSC
       - WHS
-      - BMS
+      - MNK
       - DUL
       - MCS
       - CHR
@@ -47,6 +45,8 @@ shepherds:
       - HRS
       - TTN
       - KEG
+      - CHB
+      - MRT
     colour: '#F5A9A9'
 
   - name: Blue
@@ -66,5 +66,5 @@ shepherds:
       - BRK
       - UPP
       - BWS
-      - MNK
+      - BMS
     colour: '#A9A9F5'
