@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 17
+other:
+  unclaimed_flags: 1
+teams:
+  BGS:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 0
+  GRD:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  KEG:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 3
+  RGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
