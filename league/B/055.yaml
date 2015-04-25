@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 55
+other:
+  unclaimed_flags: 1
+teams:
+  CLY2:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  HRS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  KES:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  MAI:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
