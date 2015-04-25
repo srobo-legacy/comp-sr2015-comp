@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 29
+other:
+  unclaimed_flags: 0
+teams:
+  BPV:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  BTE:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  CAT:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 0
+  PSC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
