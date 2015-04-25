@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 38
+other:
+  unclaimed_flags: 2
+teams:
+  CLC:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 0
+  CPR:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  MCS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  SWI:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
