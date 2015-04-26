@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 115
+other:
+  unclaimed_flags: 0
+teams:
+  BRN:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  BWS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  HAM:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 1
+  HZW:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
