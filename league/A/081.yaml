@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 81
+other:
+  unclaimed_flags: 2
+teams:
+  GRD2:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  KEG:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  MNK:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  MRT:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 0
