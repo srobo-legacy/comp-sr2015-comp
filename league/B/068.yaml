@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 68
+other:
+  unclaimed_flags: 2
+teams:
+  KDE:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  MCA:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  MFG:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 1
+  PSC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
