@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 111
+other:
+  unclaimed_flags: 1
+teams:
+  BRN:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  CLF:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  HAM:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  MCA:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
