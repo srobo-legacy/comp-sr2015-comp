@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 110
+other:
+  unclaimed_flags: 1
+teams:
+  CLY2:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  KEG:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  SWI:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 3
+  WGS:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 2
