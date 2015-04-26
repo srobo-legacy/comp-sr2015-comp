@@ -1,0 +1,20 @@
+arena_id: A
+match_number: 106
+other:
+  unclaimed_flags: 2
+teams:
+  BMS:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 3
+  CLY:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  HRS:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 0
