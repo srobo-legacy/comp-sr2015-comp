@@ -1,0 +1,20 @@
+arena_id: B
+match_number: 108
+other:
+  unclaimed_flags: 3
+teams:
+  CPR:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  KES:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  TWG:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 2
