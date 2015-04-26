@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 73
+other:
+  unclaimed_flags: 1
+teams:
+  HAM:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  PSC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  QMC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  SWI:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
