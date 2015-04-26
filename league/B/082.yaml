@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 82
+other:
+  unclaimed_flags: 1
+teams:
+  CAT:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  DUL:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  KDE:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  TWG:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
