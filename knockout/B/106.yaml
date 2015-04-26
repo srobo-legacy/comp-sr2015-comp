@@ -1,0 +1,20 @@
+arena_id: B
+match_number: 106
+other:
+  unclaimed_flags: 2
+teams:
+  DUL:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  JMS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  LFG:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
