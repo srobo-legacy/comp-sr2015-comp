@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 97
+other:
+  unclaimed_flags: 2
+teams:
+  DUL:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  KES:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 3
+  LSS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  RGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
