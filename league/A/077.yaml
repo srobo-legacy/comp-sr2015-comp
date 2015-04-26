@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 77
+other:
+  unclaimed_flags: 0
+teams:
+  BWS:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 3
+  CGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  LFG:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  WGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
