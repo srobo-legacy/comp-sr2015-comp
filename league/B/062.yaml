@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 62
+other:
+  unclaimed_flags: 2
+teams:
+  BTE:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  MFG:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 3
+  RGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  SWI:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
