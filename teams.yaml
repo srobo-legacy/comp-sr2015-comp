@@ -24,7 +24,7 @@ teams:
     name: MealsOnWheels
     rookie: true
   BWS:
-    name: Bishop Wordsworth School
+    name: Underclocked Toaster
     rookie: false
   CAT:
     name: CATS Robotics
@@ -48,7 +48,7 @@ teams:
     name: Clifton High School
     rookie: false
   CLY:
-    name: Team Collyer's
+    name: Autonomous Logistics and Inevitable Collision Engine (A.L.I.C.E)
     rookie: false
   CLY2:
     name: Athena
@@ -90,7 +90,7 @@ teams:
     name: tyrannous techies
     rookie: false
   KEG:
-    name: King Edward VI Grammar School, Chelmsford
+    name: Team KEG
     rookie: true
   KES:
     name: I find your lack of faith... Disturbing.
