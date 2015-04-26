@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 92
+other:
+  unclaimed_flags: 0
+teams:
+  CDU:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  CLC:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  CRB:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 1
+  DUL:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
