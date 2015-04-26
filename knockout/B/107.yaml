@@ -1,0 +1,20 @@
+arena_id: B
+match_number: 107
+other:
+  unclaimed_flags: 1
+teams:
+  CGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  KDE:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  LSS:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 3
