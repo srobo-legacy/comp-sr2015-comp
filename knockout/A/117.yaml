@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 117
+other:
+  unclaimed_flags: 0
+teams:
+  CAT:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  COT:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  CPR:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  GRD2:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 2
