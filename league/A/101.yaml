@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 101
+other:
+  unclaimed_flags: 1
+teams:
+  HZW:
+    disqualified: false
+    flags: 2
+    present: true
+    zone: 3
+  KDE:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  QEH:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  UPP:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 1
