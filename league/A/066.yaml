@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 66
+other:
+  unclaimed_flags: 2
+teams:
+  GRD:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  HAM:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  MAI:
+    disqualified: false
+    flags: 0
+    present: true
+    zone: 1
+  QEH:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
