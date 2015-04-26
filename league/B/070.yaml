@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 70
+other:
+  unclaimed_flags: 2
+teams:
+  CGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
+  CHB:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  CHR:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 3
+  CPR:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
