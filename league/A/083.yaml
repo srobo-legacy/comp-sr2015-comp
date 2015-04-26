@@ -1,0 +1,25 @@
+arena_id: A
+match_number: 83
+other:
+  unclaimed_flags: 1
+teams:
+  BGS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 0
+  BPV2:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  BWS:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  CPR:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
