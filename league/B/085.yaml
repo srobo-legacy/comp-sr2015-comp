@@ -1,0 +1,25 @@
+arena_id: B
+match_number: 85
+other:
+  unclaimed_flags: 2
+teams:
+  BMS:
+    disqualified: false
+    flags: 0
+    present: false
+    zone: 0
+  COT:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 3
+  HAM:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 2
+  MAI:
+    disqualified: false
+    flags: 1
+    present: true
+    zone: 1
