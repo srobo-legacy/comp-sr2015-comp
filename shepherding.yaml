@@ -1,70 +1,30 @@
 shepherds:
   - name: 'Yellow'
-    teams:
-      - QMC
-      - MFG
-      - BPV
-      - KDE
-      - BPV2
-      - LFG
-      - GRD
-      - GRD2
-      - TWG
-      - HZW
-      - MAI
-      - CGS
     colour: '#F2F5A9'
+    regions:
+      - floor-0-group-0
+      - floor-0-group-1
+      - floor-0-group-2
 
   - name: 'Green'
-    teams:
-      - CLY2
-      - CLY
-      - TBG
-      - CPR
-      - HAM
-      - BRN
-      - CRB
-      - COT
-      - SWI
-      - LSS
     colour: '#A9F5A9'
+    regions:
+      - floor-0-group-3
+      - floor-0-group-4
+      - floor-0-group-5
 
   - name: Red
-    teams:
-      - KES
-      - CDU
-      - QEH
-      - CLF
-      - PSC
-      - WHS
-      - MNK
-      - DUL
-      - MCS
-      - CHR
-      - BTE
-      - HRS
-      - TTN
-      - KEG
-      - CHB
-      - MRT
     colour: '#F5A9A9'
+    regions:
+      - floor-2-group-0
+      - floor-2-group-1
+      - floor-2-group-2
+      - floor-2-group-3
 
   - name: Blue
-    teams:
-      - CCR
-      - WGS
-      - BDF
-      - BGS
-      - MCA
-      - CLC
-      - SPC
-      - HSO
-      - CAT
-      - KHS
-      - RGS
-      - JMS
-      - BRK
-      - UPP
-      - BWS
-      - BMS
     colour: '#A9A9F5'
+    regions:
+      - floor-2-group-4
+      - floor-2-group-5
+      - floor-2-group-6
+      - floor-2-group-7
