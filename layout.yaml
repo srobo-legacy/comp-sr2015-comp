@@ -7,14 +7,12 @@
 #
 # Location names aren't used, but make this file easier to update.
 
-### THIS IS OUT OF DATE, BUT IT DOESN'T MATTER
-
 teams:
 # Floor 0 starts here
   - name: floor-0-group-0
     display_name: Group 0, Ground Floor
     teams:
-      - MRT
+      - LFG
       - MFG
       - BPV
       - QMC
@@ -23,8 +21,8 @@ teams:
     display_name: Group 1, Ground Floor
     teams:
       - KDE
-      - LFG
-      - CHB
+      - GRD2
+      - GRD
       - BPV2
 
   - name: floor-0-group-2
@@ -62,8 +60,8 @@ teams:
     display_name: Group 0, Second Floor
     teams:
       - KES
-      - GRD
-      - GRD2
+      - CHB
+      - MRT
       - CDU
 
   - name: floor-2-group-1
@@ -77,7 +75,7 @@ teams:
   - name: floor-2-group-2
     display_name: Group 2, Second Floor
     teams:
-      - BMS
+      - MNK
       - DUL
       - MCS
       - CHR
@@ -120,4 +118,4 @@ teams:
       - BRK
       - UPP
       - BWS
-      - MNK
+      - BMS
