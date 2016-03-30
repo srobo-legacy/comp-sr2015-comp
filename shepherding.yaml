@@ -7,20 +7,20 @@ shepherds:
       - KDE
       - BPV2
       - LFG
-      - CLY2
-      - CLY
       - GRD
       - GRD2
-    colour: '#F2F5A9'
-
-  - name: 'Green'
-    teams:
-      - TBG
-      - CPR
       - TWG
       - HZW
       - MAI
       - CGS
+    colour: '#F2F5A9'
+
+  - name: 'Green'
+    teams:
+      - CLY2
+      - CLY
+      - TBG
+      - CPR
       - HAM
       - BRN
       - CRB
