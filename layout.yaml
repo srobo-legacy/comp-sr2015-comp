@@ -7,7 +7,7 @@
 
 teams:
 # Floor 0 starts here
-  floor-0-group-0:
+  - name: floor-0-group-0
     display_name: Group 0, Ground Floor
     teams:
       - LFG
@@ -15,7 +15,7 @@ teams:
       - BPV
       - QMC
 
-  floor-0-group-1:
+  - name: floor-0-group-1
     display_name: Group 1, Ground Floor
     teams:
       - KDE
@@ -23,7 +23,7 @@ teams:
       - GRD
       - BPV2
 
-  floor-0-group-2:
+  - name: floor-0-group-2
     display_name: Group 2, Ground Floor
     teams:
       - TWG
@@ -31,7 +31,7 @@ teams:
       - CGS
       - HZW
 
-  floor-0-group-3:
+  - name: floor-0-group-3
     display_name: Group 3, Ground Floor
     teams:
       - CLY2
@@ -39,7 +39,7 @@ teams:
       - CPR
       - TBG
 
-  floor-0-group-4:
+  - name: floor-0-group-4
     display_name: Group 4, Ground Floor
     teams:
       - HAM
@@ -47,14 +47,14 @@ teams:
       - COT
       - BRN
 
-  floor-0-group-5:
+  - name: floor-0-group-5
     display_name: Group 5, Ground Floor
     teams:
       - SWI
       - LSS
 
 # Floor 2 starts here
-  floor-2-group-0:
+  - name: floor-2-group-0
     display_name: Group 0, Second Floor
     teams:
       - KES
@@ -62,7 +62,7 @@ teams:
       - MRT
       - CDU
 
-  floor-2-group-1:
+  - name: floor-2-group-1
     display_name: Group 1, Second Floor
     teams:
       - QEH
@@ -70,7 +70,7 @@ teams:
       - PSC
       - WHS
 
-  floor-2-group-2:
+  - name: floor-2-group-2
     display_name: Group 2, Second Floor
     teams:
       - MNK
@@ -78,7 +78,7 @@ teams:
       - MCS
       - CHR
 
-  floor-2-group-3:
+  - name: floor-2-group-3
     display_name: Group 3, Second Floor
     teams:
       - BTE
@@ -86,7 +86,7 @@ teams:
       - TTN
       - KEG
 
-  floor-2-group-4:
+  - name: floor-2-group-4
     display_name: Group 4, Second Floor
     teams:
       - CCR
@@ -94,7 +94,7 @@ teams:
       - BDF
       - BGS
 
-  floor-2-group-5:
+  - name: floor-2-group-5
     display_name: Group 5, Second Floor
     teams:
       - MCA
@@ -102,7 +102,7 @@ teams:
       - SPC
       - HSO
 
-  floor-2-group-6:
+  - name: floor-2-group-6
     display_name: Group 6, Second Floor
     teams:
       - CAT
@@ -110,7 +110,7 @@ teams:
       - RGS
       - JMS
 
-  floor-2-group-7:
+  - name: floor-2-group-7
     display_name: Group 7, Second Floor
     teams:
       - BRK
