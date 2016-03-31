@@ -5,7 +5,7 @@ class InvalidScoresheetException(Exception):
 MAX_FLAGS = 5
 
 class Scorer:
-    def __init__(self, scoresheet):
+    def __init__(self, scoresheet, arena_data_unused = None):
         self._scoresheet = scoresheet
 
     def calculate_scores(self):
