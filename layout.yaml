@@ -37,7 +37,6 @@ teams:
       - CLY2
       - CLY
       - CPR
-      - TBG
 
   - name: floor-0-group-4
     display_name: Group 4, Ground Floor
@@ -68,7 +67,6 @@ teams:
       - QEH
       - CLF
       - PSC
-      - WHS
 
   - name: floor-2-group-2
     display_name: Group 2, Second Floor
@@ -83,13 +81,11 @@ teams:
     teams:
       - BTE
       - HRS
-      - TTN
       - KEG
 
   - name: floor-2-group-4
     display_name: Group 4, Second Floor
     teams:
-      - CCR
       - WGS
       - BDF
       - BGS
@@ -99,14 +95,12 @@ teams:
     teams:
       - MCA
       - CLC
-      - SPC
       - HSO
 
   - name: floor-2-group-6
     display_name: Group 6, Second Floor
     teams:
       - CAT
-      - KHS
       - RGS
       - JMS
 
